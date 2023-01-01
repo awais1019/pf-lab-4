@@ -1,0 +1,22 @@
+#include<iostream>
+using namespace std;
+void iseligible(int age);
+main()
+{
+ int age;
+ cout<<"enter your age:";
+ cin>>age;
+ if(age=<18)
+ {
+  iselegible(age);
+ }
+
+
+
+
+}
+void iseligible(int age)
+ {
+ cout<<"write";
+ }
+ 

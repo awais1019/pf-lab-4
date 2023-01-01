@@ -1,0 +1,26 @@
+#include<iostream>
+using namespace std;
+void iseven(int num);
+main()
+  {
+  while(true)
+  {
+  int number;
+  cout<<"enter number:";
+  cin>>number;
+  }
+  }
+void iseven(int num)
+{ 
+ if (number%2==0)
+ {
+  cout<<"number is even:";
+ }
+ if(number%2!=0)
+ {
+  cout<<"number is odd:";
+ }
+}
+
+  
+  
